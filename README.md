@@ -6,8 +6,9 @@ A simple python script to export Windows recycle bin contents.
 - It generates a CSV file with an index of the exported files
 
 # Requirements
-- Python 3 (script was tested on 3.10)
+- Python 3 (script was tested on version 3.10)
 - Required modules: pypiwin32, winshell
+
 ```
 py -m pip install pypiwin32
 py -m pip install winshell
